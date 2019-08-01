@@ -1,0 +1,130 @@
+C:\Users\user\Desktop\Wildcat FlashMath\solution\Wildcat FlashMath\Wildcat FlashMath\bin\Debug\Wildcat FlashMath.exe.config
+C:\Users\user\Desktop\Wildcat FlashMath\solution\Wildcat FlashMath\Wildcat FlashMath\bin\Debug\Wildcat FlashMath.exe
+C:\Users\user\Desktop\Wildcat FlashMath\solution\Wildcat FlashMath\Wildcat FlashMath\bin\Debug\Wildcat FlashMath.pdb
+C:\Users\user\Desktop\Wildcat FlashMath\solution\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.Properties.Resources.resources
+C:\Users\user\Desktop\Wildcat FlashMath\solution\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat FlashMath.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Wildcat FlashMath\solution\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat FlashMath.exe
+C:\Users\user\Desktop\Wildcat FlashMath\solution\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat FlashMath.pdb
+C:\Users\user\Desktop\Wildcat FlashMath\solution\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.Form1.resources
+C:\Users\user\Desktop\Wildcat FlashMath\solution\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.main_menu.resources
+C:\Users\user\Desktop\Wildcat FlashMath\solution\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat FlashMath.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Wildcat FlashMath\solution\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.test.resources
+C:\Users\user\Desktop\Wildcat FlashMath\solution\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.test_problem.resources
+C:\Users\user\Desktop\Wildcat FlashMath\solution\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.correct.resources
+C:\Users\user\Desktop\Wildcat FlashMath\solution\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.wrong.resources
+C:\Users\user\Desktop\Wildcat FlashMath\solution\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.final_score.resources
+C:\Users\user\Desktop\Wildcat FlashMath\solution\Wildcat FlashMath\Wildcat FlashMath\bin\Debug\Wildcat FlashMath.exe.manifest
+C:\Users\user\Desktop\Wildcat FlashMath\solution\Wildcat FlashMath\Wildcat FlashMath\bin\Debug\Wildcat FlashMath.application
+C:\Users\user\Desktop\Wildcat FlashMath\solution\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat FlashMath.exe.manifest
+C:\Users\user\Desktop\Wildcat FlashMath\solution\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat FlashMath.application
+C:\Users\user\Desktop\Wildcat FlashMath\solution\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.problem_select_test.resources
+M:\Users\Papa4ka Elf\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\bin\Debug\Wildcat FlashMath.exe.config
+M:\Users\Papa4ka Elf\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\bin\Debug\Wildcat FlashMath.exe.manifest
+M:\Users\Papa4ka Elf\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\bin\Debug\Wildcat FlashMath.application
+M:\Users\Papa4ka Elf\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\bin\Debug\Wildcat FlashMath.exe
+M:\Users\Papa4ka Elf\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\bin\Debug\Wildcat FlashMath.pdb
+M:\Users\Papa4ka Elf\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat FlashMath.csprojResolveAssemblyReference.cache
+M:\Users\Papa4ka Elf\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.Form1.resources
+M:\Users\Papa4ka Elf\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.main_menu.resources
+M:\Users\Papa4ka Elf\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.correct.resources
+M:\Users\Papa4ka Elf\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.final_score.resources
+M:\Users\Papa4ka Elf\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.wrong.resources
+M:\Users\Papa4ka Elf\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.test.resources
+M:\Users\Papa4ka Elf\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.problem_select_test.resources
+M:\Users\Papa4ka Elf\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.test_problem.resources
+M:\Users\Papa4ka Elf\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.Properties.Resources.resources
+M:\Users\Papa4ka Elf\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat FlashMath.csproj.GenerateResource.Cache
+M:\Users\Papa4ka Elf\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat FlashMath.exe.manifest
+M:\Users\Papa4ka Elf\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat FlashMath.application
+M:\Users\Papa4ka Elf\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat FlashMath.exe
+M:\Users\Papa4ka Elf\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat FlashMath.pdb
+C:\Users\user\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\bin\Debug\Wildcat FlashMath.exe.config
+C:\Users\user\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\bin\Debug\Wildcat FlashMath.exe.manifest
+C:\Users\user\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\bin\Debug\Wildcat FlashMath.application
+C:\Users\user\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\bin\Debug\Wildcat FlashMath.exe
+C:\Users\user\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\bin\Debug\Wildcat FlashMath.pdb
+C:\Users\user\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat FlashMath.csprojResolveAssemblyReference.cache
+C:\Users\user\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.Form1.resources
+C:\Users\user\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.main_menu.resources
+C:\Users\user\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.correct.resources
+C:\Users\user\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.final_score.resources
+C:\Users\user\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.wrong.resources
+C:\Users\user\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.test.resources
+C:\Users\user\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.problem_select_test.resources
+C:\Users\user\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.test_problem.resources
+C:\Users\user\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.Properties.Resources.resources
+C:\Users\user\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat FlashMath.csproj.GenerateResource.Cache
+C:\Users\user\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat FlashMath.exe.manifest
+C:\Users\user\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat FlashMath.application
+C:\Users\user\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat FlashMath.exe
+C:\Users\user\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat FlashMath.pdb
+C:\Users\user\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath._1_problems.resources
+M:\Users\Papa4ka Elf\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath._1_problems.resources
+C:\Users\user\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath._2_problems.resources
+C:\Users\user\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath._3_problems.resources
+C:\Users\user\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.k_problems.resources
+C:\Users\user\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath._4_problems.resources
+C:\Users\user\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath._5_problems.resources
+C:\Users\user\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.loading_background.resources
+C:\Users\user\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.background_info.resources
+C:\Users\user\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.enter_email.resources
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat FlashMath.csprojAssemblyReference.cache
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.enter_email.resources
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.background_info.resources
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath._1_problems.resources
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.Form1.resources
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.main_menu.resources
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath._2_problems.resources
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath._3_problems.resources
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath._4_problems.resources
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath._5_problems.resources
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.k_problems.resources
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.correct.resources
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.final_score.resources
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.wrong.resources
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.test.resources
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.problem_select_test.resources
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.test_problem.resources
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.loading_background.resources
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.Properties.Resources.resources
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat FlashMath.csproj.GenerateResource.cache
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat FlashMath.csproj.CoreCompileInputs.cache
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat FlashMath.exe
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat FlashMath.pdb
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\bin\Debug\Wildcat FlashMath.exe.config
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\bin\Debug\Wildcat FlashMath.exe.manifest
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\bin\Debug\Wildcat FlashMath.application
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\bin\Debug\Wildcat FlashMath.exe
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\bin\Debug\Wildcat FlashMath.pdb
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat FlashMath.exe.manifest
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat FlashMath.application
+C:\Users\me\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\bin\Debug\Wildcat FlashMath.exe.config
+C:\Users\me\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\bin\Debug\Wildcat FlashMath.exe.manifest
+C:\Users\me\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\bin\Debug\Wildcat FlashMath.application
+C:\Users\me\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\bin\Debug\Wildcat FlashMath.exe
+C:\Users\me\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\bin\Debug\Wildcat FlashMath.pdb
+C:\Users\me\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat FlashMath.csprojAssemblyReference.cache
+C:\Users\me\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.enter_email.resources
+C:\Users\me\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.background_info.resources
+C:\Users\me\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath._1_problems.resources
+C:\Users\me\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.Form1.resources
+C:\Users\me\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.main_menu.resources
+C:\Users\me\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath._2_problems.resources
+C:\Users\me\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath._3_problems.resources
+C:\Users\me\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath._4_problems.resources
+C:\Users\me\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath._5_problems.resources
+C:\Users\me\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.k_problems.resources
+C:\Users\me\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.correct.resources
+C:\Users\me\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.final_score.resources
+C:\Users\me\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.wrong.resources
+C:\Users\me\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.test.resources
+C:\Users\me\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.problem_select_test.resources
+C:\Users\me\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.test_problem.resources
+C:\Users\me\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.loading_background.resources
+C:\Users\me\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat_FlashMath.Properties.Resources.resources
+C:\Users\me\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat FlashMath.csproj.GenerateResource.cache
+C:\Users\me\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat FlashMath.csproj.CoreCompileInputs.cache
+C:\Users\me\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat FlashMath.exe.manifest
+C:\Users\me\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat FlashMath.application
+C:\Users\me\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat FlashMath.exe
+C:\Users\me\OneDrive - fsf.stud.vu.lt\Wildcat FlashMath\Wildcat FlashMath\Wildcat FlashMath\obj\Debug\Wildcat FlashMath.pdb
